@@ -4,11 +4,6 @@ const users = [{
     name: 'cleiton',
     email: 'Cleiton@gmail.com',
     password: '123456'
-},  {
-    id: 2,
-    name: 'hudson',
-    email: 'hudson@gmail.com',
-    password: '123456'
 }
 ];
 
